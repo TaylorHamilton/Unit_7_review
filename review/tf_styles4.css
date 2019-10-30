@@ -40,19 +40,19 @@ section#right{
    flex: 8 1 351px;
 }
 
-section#tips{
+section.tips{
    display: -webkit-flex;
    display: flex;
    -webkit-flex: row wrap;
    flex: row wrap;
 }
 
-section#tips article{
+section.tips article{
    -webkit-flex: 2 1 351px;
    flex: 2 1 351px;
 }
 
-section#tips aside{
+section.tips aside{
    -webkit-flex: 1 2 250px;
    flex: 1 2 250px;
 }
